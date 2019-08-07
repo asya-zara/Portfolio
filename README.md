@@ -12,4 +12,5 @@
 - MixItUp
 - pagescroll2id
 - PHP mail sending(not work on Git pages)
+***
 [Мой персональный проект Portfolio]( https://asya-zara.github.io/portfolio/)
